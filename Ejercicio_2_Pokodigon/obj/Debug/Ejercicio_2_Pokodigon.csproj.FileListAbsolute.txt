@@ -1,0 +1,6 @@
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicio_2_Pokodigon\Ejercicio_2_Pokodigon\bin\Debug\Ejercicio_2_Pokodigon.exe.config
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicio_2_Pokodigon\Ejercicio_2_Pokodigon\bin\Debug\Ejercicio_2_Pokodigon.exe
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicio_2_Pokodigon\Ejercicio_2_Pokodigon\bin\Debug\Ejercicio_2_Pokodigon.pdb
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicio_2_Pokodigon\Ejercicio_2_Pokodigon\obj\Debug\Ejercicio_2_Pokodigon.csprojResolveAssemblyReference.cache
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicio_2_Pokodigon\Ejercicio_2_Pokodigon\obj\Debug\Ejercicio_2_Pokodigon.exe
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicio_2_Pokodigon\Ejercicio_2_Pokodigon\obj\Debug\Ejercicio_2_Pokodigon.pdb
